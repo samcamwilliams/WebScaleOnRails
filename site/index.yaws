@@ -1,0 +1,5 @@
+<erl>
+
+out(A) -> {ehtml, ws_page:main(A)}.
+
+</erl>
